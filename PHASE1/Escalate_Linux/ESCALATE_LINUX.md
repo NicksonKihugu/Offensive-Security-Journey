@@ -37,14 +37,8 @@
    
 * **Initial User Account:** user6
 
-### Access Environment
-```text
-[Paste your initial system environment details here (OS version, kernel info)]
-```
-
 ---
 ## 2. Exploitation Logs
-*Duplicate this section for every new technique you discover and try out on the system*
 ### Attack Attempt #[1]
 * **Area Explored:** SUID binary /home/user5/script -- PATH Hijacking
 * **Vulnerability Type:** Relative Path Execution(PATH Hijacking)
